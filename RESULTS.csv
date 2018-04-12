@@ -1,703 +1,538 @@
-year,city,country,avg_temp
-1743,Baltimore,United States,5.34
-1744,Baltimore,United States,13.88
-1745,Baltimore,United States,4.00
-1746,Baltimore,United States,
-1747,Baltimore,United States,
-1748,Baltimore,United States,
-1749,Baltimore,United States,
-1750,Baltimore,United States,12.51
-1751,Baltimore,United States,13.28
-1752,Baltimore,United States,5.45
-1753,Baltimore,United States,11.91
-1754,Baltimore,United States,12.22
-1755,Baltimore,United States,9.15
-1756,Baltimore,United States,12.26
-1757,Baltimore,United States,11.36
-1758,Baltimore,United States,10.48
-1759,Baltimore,United States,11.43
-1760,Baltimore,United States,10.10
-1761,Baltimore,United States,12.55
-1762,Baltimore,United States,11.92
-1763,Baltimore,United States,9.70
-1764,Baltimore,United States,11.92
-1765,Baltimore,United States,11.39
-1766,Baltimore,United States,12.45
-1767,Baltimore,United States,10.97
-1768,Baltimore,United States,10.90
-1769,Baltimore,United States,11.52
-1770,Baltimore,United States,11.39
-1771,Baltimore,United States,12.66
-1772,Baltimore,United States,12.07
-1773,Baltimore,United States,12.41
-1774,Baltimore,United States,11.89
-1775,Baltimore,United States,12.66
-1776,Baltimore,United States,11.58
-1777,Baltimore,United States,11.23
-1778,Baltimore,United States,9.16
-1779,Baltimore,United States,3.15
-1780,Baltimore,United States,
-1781,Baltimore,United States,12.14
-1782,Baltimore,United States,11.55
-1783,Baltimore,United States,11.24
-1784,Baltimore,United States,10.93
-1785,Baltimore,United States,10.94
-1786,Baltimore,United States,11.45
-1787,Baltimore,United States,11.45
-1788,Baltimore,United States,12.16
-1789,Baltimore,United States,11.84
-1790,Baltimore,United States,11.79
-1791,Baltimore,United States,11.83
-1792,Baltimore,United States,11.22
-1793,Baltimore,United States,12.21
-1794,Baltimore,United States,12.20
-1795,Baltimore,United States,11.69
-1796,Baltimore,United States,11.45
-1797,Baltimore,United States,11.35
-1798,Baltimore,United States,12.30
-1799,Baltimore,United States,11.81
-1800,Baltimore,United States,11.86
-1801,Baltimore,United States,12.27
-1802,Baltimore,United States,12.58
-1803,Baltimore,United States,12.47
-1804,Baltimore,United States,12.17
-1805,Baltimore,United States,12.73
-1806,Baltimore,United States,11.83
-1807,Baltimore,United States,11.62
-1808,Baltimore,United States,11.89
-1809,Baltimore,United States,11.16
-1810,Baltimore,United States,11.55
-1811,Baltimore,United States,11.65
-1812,Baltimore,United States,10.24
-1813,Baltimore,United States,11.35
-1814,Baltimore,United States,11.13
-1815,Baltimore,United States,10.70
-1816,Baltimore,United States,10.32
-1817,Baltimore,United States,10.25
-1818,Baltimore,United States,10.68
-1819,Baltimore,United States,11.38
-1820,Baltimore,United States,11.47
-1821,Baltimore,United States,10.77
-1822,Baltimore,United States,12.22
-1823,Baltimore,United States,11.44
-1824,Baltimore,United States,11.89
-1825,Baltimore,United States,12.56
-1826,Baltimore,United States,12.63
-1827,Baltimore,United States,12.32
-1828,Baltimore,United States,13.40
-1829,Baltimore,United States,11.49
-1830,Baltimore,United States,12.81
-1831,Baltimore,United States,10.99
-1832,Baltimore,United States,11.76
-1833,Baltimore,United States,11.90
-1834,Baltimore,United States,12.06
-1835,Baltimore,United States,11.32
-1836,Baltimore,United States,10.35
-1837,Baltimore,United States,11.19
-1838,Baltimore,United States,11.40
-1839,Baltimore,United States,11.70
-1840,Baltimore,United States,11.84
-1841,Baltimore,United States,11.40
-1842,Baltimore,United States,12.00
-1843,Baltimore,United States,11.01
-1844,Baltimore,United States,11.83
-1845,Baltimore,United States,12.03
-1846,Baltimore,United States,12.34
-1847,Baltimore,United States,11.65
-1848,Baltimore,United States,11.88
-1849,Baltimore,United States,11.38
-1850,Baltimore,United States,11.77
-1851,Baltimore,United States,12.01
-1852,Baltimore,United States,11.50
-1853,Baltimore,United States,12.31
-1854,Baltimore,United States,12.50
-1855,Baltimore,United States,11.79
-1856,Baltimore,United States,10.57
-1857,Baltimore,United States,10.82
-1858,Baltimore,United States,11.83
-1859,Baltimore,United States,11.82
-1860,Baltimore,United States,11.76
-1861,Baltimore,United States,12.00
-1862,Baltimore,United States,11.45
-1863,Baltimore,United States,11.39
-1864,Baltimore,United States,11.51
-1865,Baltimore,United States,11.92
-1866,Baltimore,United States,11.47
-1867,Baltimore,United States,10.90
-1868,Baltimore,United States,10.44
-1869,Baltimore,United States,11.20
-1870,Baltimore,United States,12.22
-1871,Baltimore,United States,11.76
-1872,Baltimore,United States,11.24
-1873,Baltimore,United States,11.10
-1874,Baltimore,United States,11.79
-1875,Baltimore,United States,10.33
-1876,Baltimore,United States,11.52
-1877,Baltimore,United States,12.30
-1878,Baltimore,United States,12.53
-1879,Baltimore,United States,11.91
-1880,Baltimore,United States,12.33
-1881,Baltimore,United States,12.50
-1882,Baltimore,United States,11.88
-1883,Baltimore,United States,11.36
-1884,Baltimore,United States,12.02
-1885,Baltimore,United States,10.88
-1886,Baltimore,United States,11.20
-1887,Baltimore,United States,11.74
-1888,Baltimore,United States,11.09
-1889,Baltimore,United States,12.02
-1890,Baltimore,United States,12.47
-1891,Baltimore,United States,12.04
-1892,Baltimore,United States,11.40
-1893,Baltimore,United States,11.16
-1894,Baltimore,United States,12.49
-1895,Baltimore,United States,11.37
-1896,Baltimore,United States,12.15
-1897,Baltimore,United States,11.81
-1898,Baltimore,United States,12.55
-1899,Baltimore,United States,11.73
-1900,Baltimore,United States,12.71
-1901,Baltimore,United States,11.32
-1902,Baltimore,United States,11.76
-1903,Baltimore,United States,11.57
-1904,Baltimore,United States,10.37
-1905,Baltimore,United States,11.49
-1906,Baltimore,United States,12.34
-1907,Baltimore,United States,10.87
-1908,Baltimore,United States,12.06
-1909,Baltimore,United States,11.93
-1910,Baltimore,United States,11.89
-1911,Baltimore,United States,12.53
-1912,Baltimore,United States,11.49
-1913,Baltimore,United States,12.98
-1914,Baltimore,United States,11.61
-1915,Baltimore,United States,11.92
-1916,Baltimore,United States,11.60
-1917,Baltimore,United States,10.55
-1918,Baltimore,United States,11.86
-1919,Baltimore,United States,12.37
-1920,Baltimore,United States,11.40
-1921,Baltimore,United States,13.37
-1922,Baltimore,United States,12.46
-1923,Baltimore,United States,12.17
-1924,Baltimore,United States,11.13
-1925,Baltimore,United States,12.13
-1926,Baltimore,United States,11.25
-1927,Baltimore,United States,12.15
-1928,Baltimore,United States,11.94
-1929,Baltimore,United States,12.13
-1930,Baltimore,United States,12.64
-1931,Baltimore,United States,13.26
-1932,Baltimore,United States,12.75
-1933,Baltimore,United States,12.60
-1934,Baltimore,United States,11.98
-1935,Baltimore,United States,11.81
-1936,Baltimore,United States,12.00
-1937,Baltimore,United States,12.23
-1938,Baltimore,United States,12.79
-1939,Baltimore,United States,12.75
-1940,Baltimore,United States,11.02
-1941,Baltimore,United States,12.58
-1942,Baltimore,United States,12.40
-1943,Baltimore,United States,12.24
-1944,Baltimore,United States,12.27
-1945,Baltimore,United States,12.31
-1946,Baltimore,United States,12.88
-1947,Baltimore,United States,12.06
-1948,Baltimore,United States,12.20
-1949,Baltimore,United States,13.37
-1950,Baltimore,United States,12.04
-1951,Baltimore,United States,12.37
-1952,Baltimore,United States,12.63
-1953,Baltimore,United States,13.29
-1954,Baltimore,United States,12.69
-1955,Baltimore,United States,12.48
-1956,Baltimore,United States,12.30
-1957,Baltimore,United States,12.74
-1958,Baltimore,United States,11.34
-1959,Baltimore,United States,13.06
-1960,Baltimore,United States,11.78
-1961,Baltimore,United States,12.11
-1962,Baltimore,United States,11.61
-1963,Baltimore,United States,11.58
-1964,Baltimore,United States,12.33
-1965,Baltimore,United States,12.18
-1966,Baltimore,United States,11.89
-1967,Baltimore,United States,11.60
-1968,Baltimore,United States,12.15
-1969,Baltimore,United States,11.98
-1970,Baltimore,United States,12.29
-1971,Baltimore,United States,12.43
-1972,Baltimore,United States,11.89
-1973,Baltimore,United States,13.04
-1974,Baltimore,United States,12.51
-1975,Baltimore,United States,12.67
-1976,Baltimore,United States,11.85
-1977,Baltimore,United States,12.34
-1978,Baltimore,United States,11.56
-1979,Baltimore,United States,11.88
-1980,Baltimore,United States,12.22
-1981,Baltimore,United States,12.00
-1982,Baltimore,United States,12.16
-1983,Baltimore,United States,12.48
-1984,Baltimore,United States,12.42
-1985,Baltimore,United States,12.79
-1986,Baltimore,United States,12.65
-1987,Baltimore,United States,12.78
-1988,Baltimore,United States,12.14
-1989,Baltimore,United States,11.92
-1990,Baltimore,United States,13.75
-1991,Baltimore,United States,13.76
-1992,Baltimore,United States,11.96
-1993,Baltimore,United States,12.39
-1994,Baltimore,United States,12.46
-1995,Baltimore,United States,12.55
-1996,Baltimore,United States,11.85
-1997,Baltimore,United States,12.36
-1998,Baltimore,United States,14.07
-1999,Baltimore,United States,13.19
-2000,Baltimore,United States,12.28
-2001,Baltimore,United States,12.99
-2002,Baltimore,United States,13.46
-2003,Baltimore,United States,12.07
-2004,Baltimore,United States,12.79
-2005,Baltimore,United States,12.82
-2006,Baltimore,United States,13.59
-2007,Baltimore,United States,13.13
-2008,Baltimore,United States,12.76
-2009,Baltimore,United States,12.44
-2010,Baltimore,United States,13.28
-2011,Baltimore,United States,13.56
-2012,Baltimore,United States,14.00
-2013,Baltimore,United States,14.19
-1849,San Francisco,United States,14.12
-1850,San Francisco,United States,13.80
-1851,San Francisco,United States,14.39
-1852,San Francisco,United States,13.81
-1853,San Francisco,United States,14.40
-1854,San Francisco,United States,13.98
-1855,San Francisco,United States,14.20
-1856,San Francisco,United States,14.10
-1857,San Francisco,United States,14.78
-1858,San Francisco,United States,14.19
-1859,San Francisco,United States,13.71
-1860,San Francisco,United States,13.81
-1861,San Francisco,United States,14.88
-1862,San Francisco,United States,14.43
-1863,San Francisco,United States,14.43
-1864,San Francisco,United States,15.18
-1865,San Francisco,United States,14.32
-1866,San Francisco,United States,14.67
-1867,San Francisco,United States,14.46
-1868,San Francisco,United States,14.25
-1869,San Francisco,United States,14.57
-1870,San Francisco,United States,14.19
-1871,San Francisco,United States,14.34
-1872,San Francisco,United States,14.63
-1873,San Francisco,United States,14.46
-1874,San Francisco,United States,14.09
-1875,San Francisco,United States,14.76
-1876,San Francisco,United States,14.44
-1877,San Francisco,United States,15.03
-1878,San Francisco,United States,14.37
-1879,San Francisco,United States,14.20
-1880,San Francisco,United States,13.22
-1881,San Francisco,United States,14.39
-1882,San Francisco,United States,13.58
-1883,San Francisco,United States,13.93
-1884,San Francisco,United States,14.05
-1885,San Francisco,United States,15.05
-1886,San Francisco,United States,14.58
-1887,San Francisco,United States,14.38
-1888,San Francisco,United States,14.70
-1889,San Francisco,United States,14.81
-1890,San Francisco,United States,14.05
-1891,San Francisco,United States,14.46
-1892,San Francisco,United States,14.05
-1893,San Francisco,United States,13.40
-1894,San Francisco,United States,13.80
-1895,San Francisco,United States,13.95
-1896,San Francisco,United States,14.22
-1897,San Francisco,United States,13.81
-1898,San Francisco,United States,13.77
-1899,San Francisco,United States,14.04
-1900,San Francisco,United States,14.64
-1901,San Francisco,United States,14.34
-1902,San Francisco,United States,14.07
-1903,San Francisco,United States,14.12
-1904,San Francisco,United States,14.50
-1905,San Francisco,United States,14.39
-1906,San Francisco,United States,14.81
-1907,San Francisco,United States,14.34
-1908,San Francisco,United States,14.01
-1909,San Francisco,United States,14.05
-1910,San Francisco,United States,14.17
-1911,San Francisco,United States,13.46
-1912,San Francisco,United States,13.95
-1913,San Francisco,United States,14.38
-1914,San Francisco,United States,14.33
-1915,San Francisco,United States,14.30
-1916,San Francisco,United States,13.61
-1917,San Francisco,United States,14.06
-1918,San Francisco,United States,14.14
-1919,San Francisco,United States,13.60
-1920,San Francisco,United States,13.72
-1921,San Francisco,United States,14.24
-1922,San Francisco,United States,13.61
-1923,San Francisco,United States,14.13
-1924,San Francisco,United States,14.10
-1925,San Francisco,United States,14.34
-1926,San Francisco,United States,15.14
-1927,San Francisco,United States,14.24
-1928,San Francisco,United States,14.32
-1929,San Francisco,United States,14.25
-1930,San Francisco,United States,14.25
-1931,San Francisco,United States,14.93
-1932,San Francisco,United States,14.24
-1933,San Francisco,United States,13.93
-1934,San Francisco,United States,15.31
-1935,San Francisco,United States,14.12
-1936,San Francisco,United States,15.13
-1937,San Francisco,United States,14.36
-1938,San Francisco,United States,14.35
-1939,San Francisco,United States,14.81
-1940,San Francisco,United States,15.12
-1941,San Francisco,United States,14.98
-1942,San Francisco,United States,14.20
-1943,San Francisco,United States,14.72
-1944,San Francisco,United States,14.17
-1945,San Francisco,United States,14.41
-1946,San Francisco,United States,13.83
-1947,San Francisco,United States,14.51
-1948,San Francisco,United States,13.65
-1949,San Francisco,United States,13.90
-1950,San Francisco,United States,14.66
-1951,San Francisco,United States,14.06
-1952,San Francisco,United States,14.11
-1953,San Francisco,United States,14.42
-1954,San Francisco,United States,14.18
-1955,San Francisco,United States,13.74
-1956,San Francisco,United States,14.08
-1957,San Francisco,United States,14.59
-1958,San Francisco,United States,15.41
-1959,San Francisco,United States,15.39
-1960,San Francisco,United States,14.59
-1961,San Francisco,United States,14.65
-1962,San Francisco,United States,14.22
-1963,San Francisco,United States,14.19
-1964,San Francisco,United States,14.24
-1965,San Francisco,United States,14.14
-1966,San Francisco,United States,14.74
-1967,San Francisco,United States,14.50
-1968,San Francisco,United States,14.66
-1969,San Francisco,United States,14.51
-1970,San Francisco,United States,14.76
-1971,San Francisco,United States,13.89
-1972,San Francisco,United States,14.25
-1973,San Francisco,United States,14.58
-1974,San Francisco,United States,14.41
-1975,San Francisco,United States,13.82
-1976,San Francisco,United States,14.72
-1977,San Francisco,United States,14.63
-1978,San Francisco,United States,14.96
-1979,San Francisco,United States,14.99
-1980,San Francisco,United States,14.74
-1981,San Francisco,United States,15.22
-1982,San Francisco,United States,14.00
-1983,San Francisco,United States,15.07
-1984,San Francisco,United States,14.97
-1985,San Francisco,United States,14.23
-1986,San Francisco,United States,15.00
-1987,San Francisco,United States,14.95
-1988,San Francisco,United States,15.08
-1989,San Francisco,United States,14.45
-1990,San Francisco,United States,14.73
-1991,San Francisco,United States,14.50
-1992,San Francisco,United States,15.53
-1993,San Francisco,United States,14.97
-1994,San Francisco,United States,14.21
-1995,San Francisco,United States,15.31
-1996,San Francisco,United States,15.56
-1997,San Francisco,United States,15.75
-1998,San Francisco,United States,14.38
-1999,San Francisco,United States,14.41
-2000,San Francisco,United States,15.02
-2001,San Francisco,United States,15.25
-2002,San Francisco,United States,15.00
-2003,San Francisco,United States,15.43
-2004,San Francisco,United States,15.37
-2005,San Francisco,United States,15.17
-2006,San Francisco,United States,15.02
-2007,San Francisco,United States,14.94
-2008,San Francisco,United States,15.05
-2009,San Francisco,United States,15.02
-2010,San Francisco,United States,14.67
-2011,San Francisco,United States,14.50
-2012,San Francisco,United States,15.05
-2013,San Francisco,United States,16.23
-1750,global,global,8.72
-1751,global,global,7.98
-1752,global,global,5.78
-1753,global,global,8.39
-1754,global,global,8.47
-1755,global,global,8.36
-1756,global,global,8.85
-1757,global,global,9.02
-1758,global,global,6.74
-1759,global,global,7.99
-1760,global,global,7.19
-1761,global,global,8.77
-1762,global,global,8.61
-1763,global,global,7.50
-1764,global,global,8.40
-1765,global,global,8.25
-1766,global,global,8.41
-1767,global,global,8.22
-1768,global,global,6.78
-1769,global,global,7.69
-1770,global,global,7.69
-1771,global,global,7.85
-1772,global,global,8.19
-1773,global,global,8.22
-1774,global,global,8.77
-1775,global,global,9.18
-1776,global,global,8.30
-1777,global,global,8.26
-1778,global,global,8.54
-1779,global,global,8.98
-1780,global,global,9.43
-1781,global,global,8.10
-1782,global,global,7.90
-1783,global,global,7.68
-1784,global,global,7.86
-1785,global,global,7.36
-1786,global,global,8.26
-1787,global,global,8.03
-1788,global,global,8.45
-1789,global,global,8.33
-1790,global,global,7.98
-1791,global,global,8.23
-1792,global,global,8.09
-1793,global,global,8.23
-1794,global,global,8.53
-1795,global,global,8.35
-1796,global,global,8.27
-1797,global,global,8.51
-1798,global,global,8.67
-1799,global,global,8.51
-1800,global,global,8.48
-1801,global,global,8.59
-1802,global,global,8.58
-1803,global,global,8.50
-1804,global,global,8.84
-1805,global,global,8.56
-1806,global,global,8.43
-1807,global,global,8.28
-1808,global,global,7.63
-1809,global,global,7.08
-1810,global,global,6.92
-1811,global,global,6.86
-1812,global,global,7.05
-1813,global,global,7.74
-1814,global,global,7.59
-1815,global,global,7.24
-1816,global,global,6.94
-1817,global,global,6.98
-1818,global,global,7.83
-1819,global,global,7.37
-1820,global,global,7.62
-1821,global,global,8.09
-1822,global,global,8.19
-1823,global,global,7.72
-1824,global,global,8.55
-1825,global,global,8.39
-1826,global,global,8.36
-1827,global,global,8.81
-1828,global,global,8.17
-1829,global,global,7.94
-1830,global,global,8.52
-1831,global,global,7.64
-1832,global,global,7.45
-1833,global,global,8.01
-1834,global,global,8.15
-1835,global,global,7.39
-1836,global,global,7.70
-1837,global,global,7.38
-1838,global,global,7.51
-1839,global,global,7.63
-1840,global,global,7.80
-1841,global,global,7.69
-1842,global,global,8.02
-1843,global,global,8.17
-1844,global,global,7.65
-1845,global,global,7.85
-1846,global,global,8.55
-1847,global,global,8.09
-1848,global,global,7.98
-1849,global,global,7.98
-1850,global,global,7.90
-1851,global,global,8.18
-1852,global,global,8.10
-1853,global,global,8.04
-1854,global,global,8.21
-1855,global,global,8.11
-1856,global,global,8.00
-1857,global,global,7.76
-1858,global,global,8.10
-1859,global,global,8.25
-1860,global,global,7.96
-1861,global,global,7.85
-1862,global,global,7.56
-1863,global,global,8.11
-1864,global,global,7.98
-1865,global,global,8.18
-1866,global,global,8.29
-1867,global,global,8.44
-1868,global,global,8.25
-1869,global,global,8.43
-1870,global,global,8.20
-1871,global,global,8.12
-1872,global,global,8.19
-1873,global,global,8.35
-1874,global,global,8.43
-1875,global,global,7.86
-1876,global,global,8.08
-1877,global,global,8.54
-1878,global,global,8.83
-1879,global,global,8.17
-1880,global,global,8.12
-1881,global,global,8.27
-1882,global,global,8.13
-1883,global,global,7.98
-1884,global,global,7.77
-1885,global,global,7.92
-1886,global,global,7.95
-1887,global,global,7.91
-1888,global,global,8.09
-1889,global,global,8.32
-1890,global,global,7.97
-1891,global,global,8.02
-1892,global,global,8.07
-1893,global,global,8.06
-1894,global,global,8.16
-1895,global,global,8.15
-1896,global,global,8.21
-1897,global,global,8.29
-1898,global,global,8.18
-1899,global,global,8.40
-1900,global,global,8.50
-1901,global,global,8.54
-1902,global,global,8.30
-1903,global,global,8.22
-1904,global,global,8.09
-1905,global,global,8.23
-1906,global,global,8.38
-1907,global,global,7.95
-1908,global,global,8.19
-1909,global,global,8.18
-1910,global,global,8.22
-1911,global,global,8.18
-1912,global,global,8.17
-1913,global,global,8.30
-1914,global,global,8.59
-1915,global,global,8.59
-1916,global,global,8.23
-1917,global,global,8.02
-1918,global,global,8.13
-1919,global,global,8.38
-1920,global,global,8.36
-1921,global,global,8.57
-1922,global,global,8.41
-1923,global,global,8.42
-1924,global,global,8.51
-1925,global,global,8.53
-1926,global,global,8.73
-1927,global,global,8.52
-1928,global,global,8.63
-1929,global,global,8.24
-1930,global,global,8.63
-1931,global,global,8.72
-1932,global,global,8.71
-1933,global,global,8.34
-1934,global,global,8.63
-1935,global,global,8.52
-1936,global,global,8.55
-1937,global,global,8.70
-1938,global,global,8.86
-1939,global,global,8.76
-1940,global,global,8.76
-1941,global,global,8.77
-1942,global,global,8.73
-1943,global,global,8.76
-1944,global,global,8.85
-1945,global,global,8.58
-1946,global,global,8.68
-1947,global,global,8.80
-1948,global,global,8.75
-1949,global,global,8.59
-1950,global,global,8.37
-1951,global,global,8.63
-1952,global,global,8.64
-1953,global,global,8.87
-1954,global,global,8.56
-1955,global,global,8.63
-1956,global,global,8.28
-1957,global,global,8.73
-1958,global,global,8.77
-1959,global,global,8.73
-1960,global,global,8.58
-1961,global,global,8.80
-1962,global,global,8.75
-1963,global,global,8.86
-1964,global,global,8.41
-1965,global,global,8.53
-1966,global,global,8.60
-1967,global,global,8.70
-1968,global,global,8.52
-1969,global,global,8.60
-1970,global,global,8.70
-1971,global,global,8.60
-1972,global,global,8.50
-1973,global,global,8.95
-1974,global,global,8.47
-1975,global,global,8.74
-1976,global,global,8.35
-1977,global,global,8.85
-1978,global,global,8.69
-1979,global,global,8.73
-1980,global,global,8.98
-1981,global,global,9.17
-1982,global,global,8.64
-1983,global,global,9.03
-1984,global,global,8.69
-1985,global,global,8.66
-1986,global,global,8.83
-1987,global,global,8.99
-1988,global,global,9.20
-1989,global,global,8.92
-1990,global,global,9.23
-1991,global,global,9.18
-1992,global,global,8.84
-1993,global,global,8.87
-1994,global,global,9.04
-1995,global,global,9.35
-1996,global,global,9.04
-1997,global,global,9.20
-1998,global,global,9.52
-1999,global,global,9.29
-2000,global,global,9.20
-2001,global,global,9.41
-2002,global,global,9.57
-2003,global,global,9.53
-2004,global,global,9.32
-2005,global,global,9.70
-2006,global,global,9.53
-2007,global,global,9.73
-2008,global,global,9.43
-2009,global,global,9.51
-2010,global,global,9.70
-2011,global,global,9.52
-2012,global,global,9.51
-2013,global,global,9.61
-2014,global,global,9.57
-2015,global,global,9.83
+year,city,avg_temp
+1743,Baltimore,5.34
+1744,Baltimore,13.88
+1745,Baltimore,4.00
+1746,Baltimore,
+1747,Baltimore,
+1748,Baltimore,
+1749,Baltimore,
+1750,Baltimore,12.51
+1751,Baltimore,13.28
+1752,Baltimore,5.45
+1753,Baltimore,11.91
+1754,Baltimore,12.22
+1755,Baltimore,9.15
+1756,Baltimore,12.26
+1757,Baltimore,11.36
+1758,Baltimore,10.48
+1759,Baltimore,11.43
+1760,Baltimore,10.10
+1761,Baltimore,12.55
+1762,Baltimore,11.92
+1763,Baltimore,9.70
+1764,Baltimore,11.92
+1765,Baltimore,11.39
+1766,Baltimore,12.45
+1767,Baltimore,10.97
+1768,Baltimore,10.90
+1769,Baltimore,11.52
+1770,Baltimore,11.39
+1771,Baltimore,12.66
+1772,Baltimore,12.07
+1773,Baltimore,12.41
+1774,Baltimore,11.89
+1775,Baltimore,12.66
+1776,Baltimore,11.58
+1777,Baltimore,11.23
+1778,Baltimore,9.16
+1779,Baltimore,3.15
+1780,Baltimore,
+1781,Baltimore,12.14
+1782,Baltimore,11.55
+1783,Baltimore,11.24
+1784,Baltimore,10.93
+1785,Baltimore,10.94
+1786,Baltimore,11.45
+1787,Baltimore,11.45
+1788,Baltimore,12.16
+1789,Baltimore,11.84
+1790,Baltimore,11.79
+1791,Baltimore,11.83
+1792,Baltimore,11.22
+1793,Baltimore,12.21
+1794,Baltimore,12.20
+1795,Baltimore,11.69
+1796,Baltimore,11.45
+1797,Baltimore,11.35
+1798,Baltimore,12.30
+1799,Baltimore,11.81
+1800,Baltimore,11.86
+1801,Baltimore,12.27
+1802,Baltimore,12.58
+1803,Baltimore,12.47
+1804,Baltimore,12.17
+1805,Baltimore,12.73
+1806,Baltimore,11.83
+1807,Baltimore,11.62
+1808,Baltimore,11.89
+1809,Baltimore,11.16
+1810,Baltimore,11.55
+1811,Baltimore,11.65
+1812,Baltimore,10.24
+1813,Baltimore,11.35
+1814,Baltimore,11.13
+1815,Baltimore,10.70
+1816,Baltimore,10.32
+1817,Baltimore,10.25
+1818,Baltimore,10.68
+1819,Baltimore,11.38
+1820,Baltimore,11.47
+1821,Baltimore,10.77
+1822,Baltimore,12.22
+1823,Baltimore,11.44
+1824,Baltimore,11.89
+1825,Baltimore,12.56
+1826,Baltimore,12.63
+1827,Baltimore,12.32
+1828,Baltimore,13.40
+1829,Baltimore,11.49
+1830,Baltimore,12.81
+1831,Baltimore,10.99
+1832,Baltimore,11.76
+1833,Baltimore,11.90
+1834,Baltimore,12.06
+1835,Baltimore,11.32
+1836,Baltimore,10.35
+1837,Baltimore,11.19
+1838,Baltimore,11.40
+1839,Baltimore,11.70
+1840,Baltimore,11.84
+1841,Baltimore,11.40
+1842,Baltimore,12.00
+1843,Baltimore,11.01
+1844,Baltimore,11.83
+1845,Baltimore,12.03
+1846,Baltimore,12.34
+1847,Baltimore,11.65
+1848,Baltimore,11.88
+1849,Baltimore,11.38
+1850,Baltimore,11.77
+1851,Baltimore,12.01
+1852,Baltimore,11.50
+1853,Baltimore,12.31
+1854,Baltimore,12.50
+1855,Baltimore,11.79
+1856,Baltimore,10.57
+1857,Baltimore,10.82
+1858,Baltimore,11.83
+1859,Baltimore,11.82
+1860,Baltimore,11.76
+1861,Baltimore,12.00
+1862,Baltimore,11.45
+1863,Baltimore,11.39
+1864,Baltimore,11.51
+1865,Baltimore,11.92
+1866,Baltimore,11.47
+1867,Baltimore,10.90
+1868,Baltimore,10.44
+1869,Baltimore,11.20
+1870,Baltimore,12.22
+1871,Baltimore,11.76
+1872,Baltimore,11.24
+1873,Baltimore,11.10
+1874,Baltimore,11.79
+1875,Baltimore,10.33
+1876,Baltimore,11.52
+1877,Baltimore,12.30
+1878,Baltimore,12.53
+1879,Baltimore,11.91
+1880,Baltimore,12.33
+1881,Baltimore,12.50
+1882,Baltimore,11.88
+1883,Baltimore,11.36
+1884,Baltimore,12.02
+1885,Baltimore,10.88
+1886,Baltimore,11.20
+1887,Baltimore,11.74
+1888,Baltimore,11.09
+1889,Baltimore,12.02
+1890,Baltimore,12.47
+1891,Baltimore,12.04
+1892,Baltimore,11.40
+1893,Baltimore,11.16
+1894,Baltimore,12.49
+1895,Baltimore,11.37
+1896,Baltimore,12.15
+1897,Baltimore,11.81
+1898,Baltimore,12.55
+1899,Baltimore,11.73
+1900,Baltimore,12.71
+1901,Baltimore,11.32
+1902,Baltimore,11.76
+1903,Baltimore,11.57
+1904,Baltimore,10.37
+1905,Baltimore,11.49
+1906,Baltimore,12.34
+1907,Baltimore,10.87
+1908,Baltimore,12.06
+1909,Baltimore,11.93
+1910,Baltimore,11.89
+1911,Baltimore,12.53
+1912,Baltimore,11.49
+1913,Baltimore,12.98
+1914,Baltimore,11.61
+1915,Baltimore,11.92
+1916,Baltimore,11.60
+1917,Baltimore,10.55
+1918,Baltimore,11.86
+1919,Baltimore,12.37
+1920,Baltimore,11.40
+1921,Baltimore,13.37
+1922,Baltimore,12.46
+1923,Baltimore,12.17
+1924,Baltimore,11.13
+1925,Baltimore,12.13
+1926,Baltimore,11.25
+1927,Baltimore,12.15
+1928,Baltimore,11.94
+1929,Baltimore,12.13
+1930,Baltimore,12.64
+1931,Baltimore,13.26
+1932,Baltimore,12.75
+1933,Baltimore,12.60
+1934,Baltimore,11.98
+1935,Baltimore,11.81
+1936,Baltimore,12.00
+1937,Baltimore,12.23
+1938,Baltimore,12.79
+1939,Baltimore,12.75
+1940,Baltimore,11.02
+1941,Baltimore,12.58
+1942,Baltimore,12.40
+1943,Baltimore,12.24
+1944,Baltimore,12.27
+1945,Baltimore,12.31
+1946,Baltimore,12.88
+1947,Baltimore,12.06
+1948,Baltimore,12.20
+1949,Baltimore,13.37
+1950,Baltimore,12.04
+1951,Baltimore,12.37
+1952,Baltimore,12.63
+1953,Baltimore,13.29
+1954,Baltimore,12.69
+1955,Baltimore,12.48
+1956,Baltimore,12.30
+1957,Baltimore,12.74
+1958,Baltimore,11.34
+1959,Baltimore,13.06
+1960,Baltimore,11.78
+1961,Baltimore,12.11
+1962,Baltimore,11.61
+1963,Baltimore,11.58
+1964,Baltimore,12.33
+1965,Baltimore,12.18
+1966,Baltimore,11.89
+1967,Baltimore,11.60
+1968,Baltimore,12.15
+1969,Baltimore,11.98
+1970,Baltimore,12.29
+1971,Baltimore,12.43
+1972,Baltimore,11.89
+1973,Baltimore,13.04
+1974,Baltimore,12.51
+1975,Baltimore,12.67
+1976,Baltimore,11.85
+1977,Baltimore,12.34
+1978,Baltimore,11.56
+1979,Baltimore,11.88
+1980,Baltimore,12.22
+1981,Baltimore,12.00
+1982,Baltimore,12.16
+1983,Baltimore,12.48
+1984,Baltimore,12.42
+1985,Baltimore,12.79
+1986,Baltimore,12.65
+1987,Baltimore,12.78
+1988,Baltimore,12.14
+1989,Baltimore,11.92
+1990,Baltimore,13.75
+1991,Baltimore,13.76
+1992,Baltimore,11.96
+1993,Baltimore,12.39
+1994,Baltimore,12.46
+1995,Baltimore,12.55
+1996,Baltimore,11.85
+1997,Baltimore,12.36
+1998,Baltimore,14.07
+1999,Baltimore,13.19
+2000,Baltimore,12.28
+2001,Baltimore,12.99
+2002,Baltimore,13.46
+2003,Baltimore,12.07
+2004,Baltimore,12.79
+2005,Baltimore,12.82
+2006,Baltimore,13.59
+2007,Baltimore,13.13
+2008,Baltimore,12.76
+2009,Baltimore,12.44
+2010,Baltimore,13.28
+2011,Baltimore,13.56
+2012,Baltimore,14.00
+2013,Baltimore,14.19
+1750,global,8.72
+1751,global,7.98
+1752,global,5.78
+1753,global,8.39
+1754,global,8.47
+1755,global,8.36
+1756,global,8.85
+1757,global,9.02
+1758,global,6.74
+1759,global,7.99
+1760,global,7.19
+1761,global,8.77
+1762,global,8.61
+1763,global,7.50
+1764,global,8.40
+1765,global,8.25
+1766,global,8.41
+1767,global,8.22
+1768,global,6.78
+1769,global,7.69
+1770,global,7.69
+1771,global,7.85
+1772,global,8.19
+1773,global,8.22
+1774,global,8.77
+1775,global,9.18
+1776,global,8.30
+1777,global,8.26
+1778,global,8.54
+1779,global,8.98
+1780,global,9.43
+1781,global,8.10
+1782,global,7.90
+1783,global,7.68
+1784,global,7.86
+1785,global,7.36
+1786,global,8.26
+1787,global,8.03
+1788,global,8.45
+1789,global,8.33
+1790,global,7.98
+1791,global,8.23
+1792,global,8.09
+1793,global,8.23
+1794,global,8.53
+1795,global,8.35
+1796,global,8.27
+1797,global,8.51
+1798,global,8.67
+1799,global,8.51
+1800,global,8.48
+1801,global,8.59
+1802,global,8.58
+1803,global,8.50
+1804,global,8.84
+1805,global,8.56
+1806,global,8.43
+1807,global,8.28
+1808,global,7.63
+1809,global,7.08
+1810,global,6.92
+1811,global,6.86
+1812,global,7.05
+1813,global,7.74
+1814,global,7.59
+1815,global,7.24
+1816,global,6.94
+1817,global,6.98
+1818,global,7.83
+1819,global,7.37
+1820,global,7.62
+1821,global,8.09
+1822,global,8.19
+1823,global,7.72
+1824,global,8.55
+1825,global,8.39
+1826,global,8.36
+1827,global,8.81
+1828,global,8.17
+1829,global,7.94
+1830,global,8.52
+1831,global,7.64
+1832,global,7.45
+1833,global,8.01
+1834,global,8.15
+1835,global,7.39
+1836,global,7.70
+1837,global,7.38
+1838,global,7.51
+1839,global,7.63
+1840,global,7.80
+1841,global,7.69
+1842,global,8.02
+1843,global,8.17
+1844,global,7.65
+1845,global,7.85
+1846,global,8.55
+1847,global,8.09
+1848,global,7.98
+1849,global,7.98
+1850,global,7.90
+1851,global,8.18
+1852,global,8.10
+1853,global,8.04
+1854,global,8.21
+1855,global,8.11
+1856,global,8.00
+1857,global,7.76
+1858,global,8.10
+1859,global,8.25
+1860,global,7.96
+1861,global,7.85
+1862,global,7.56
+1863,global,8.11
+1864,global,7.98
+1865,global,8.18
+1866,global,8.29
+1867,global,8.44
+1868,global,8.25
+1869,global,8.43
+1870,global,8.20
+1871,global,8.12
+1872,global,8.19
+1873,global,8.35
+1874,global,8.43
+1875,global,7.86
+1876,global,8.08
+1877,global,8.54
+1878,global,8.83
+1879,global,8.17
+1880,global,8.12
+1881,global,8.27
+1882,global,8.13
+1883,global,7.98
+1884,global,7.77
+1885,global,7.92
+1886,global,7.95
+1887,global,7.91
+1888,global,8.09
+1889,global,8.32
+1890,global,7.97
+1891,global,8.02
+1892,global,8.07
+1893,global,8.06
+1894,global,8.16
+1895,global,8.15
+1896,global,8.21
+1897,global,8.29
+1898,global,8.18
+1899,global,8.40
+1900,global,8.50
+1901,global,8.54
+1902,global,8.30
+1903,global,8.22
+1904,global,8.09
+1905,global,8.23
+1906,global,8.38
+1907,global,7.95
+1908,global,8.19
+1909,global,8.18
+1910,global,8.22
+1911,global,8.18
+1912,global,8.17
+1913,global,8.30
+1914,global,8.59
+1915,global,8.59
+1916,global,8.23
+1917,global,8.02
+1918,global,8.13
+1919,global,8.38
+1920,global,8.36
+1921,global,8.57
+1922,global,8.41
+1923,global,8.42
+1924,global,8.51
+1925,global,8.53
+1926,global,8.73
+1927,global,8.52
+1928,global,8.63
+1929,global,8.24
+1930,global,8.63
+1931,global,8.72
+1932,global,8.71
+1933,global,8.34
+1934,global,8.63
+1935,global,8.52
+1936,global,8.55
+1937,global,8.70
+1938,global,8.86
+1939,global,8.76
+1940,global,8.76
+1941,global,8.77
+1942,global,8.73
+1943,global,8.76
+1944,global,8.85
+1945,global,8.58
+1946,global,8.68
+1947,global,8.80
+1948,global,8.75
+1949,global,8.59
+1950,global,8.37
+1951,global,8.63
+1952,global,8.64
+1953,global,8.87
+1954,global,8.56
+1955,global,8.63
+1956,global,8.28
+1957,global,8.73
+1958,global,8.77
+1959,global,8.73
+1960,global,8.58
+1961,global,8.80
+1962,global,8.75
+1963,global,8.86
+1964,global,8.41
+1965,global,8.53
+1966,global,8.60
+1967,global,8.70
+1968,global,8.52
+1969,global,8.60
+1970,global,8.70
+1971,global,8.60
+1972,global,8.50
+1973,global,8.95
+1974,global,8.47
+1975,global,8.74
+1976,global,8.35
+1977,global,8.85
+1978,global,8.69
+1979,global,8.73
+1980,global,8.98
+1981,global,9.17
+1982,global,8.64
+1983,global,9.03
+1984,global,8.69
+1985,global,8.66
+1986,global,8.83
+1987,global,8.99
+1988,global,9.20
+1989,global,8.92
+1990,global,9.23
+1991,global,9.18
+1992,global,8.84
+1993,global,8.87
+1994,global,9.04
+1995,global,9.35
+1996,global,9.04
+1997,global,9.20
+1998,global,9.52
+1999,global,9.29
+2000,global,9.20
+2001,global,9.41
+2002,global,9.57
+2003,global,9.53
+2004,global,9.32
+2005,global,9.70
+2006,global,9.53
+2007,global,9.73
+2008,global,9.43
+2009,global,9.51
+2010,global,9.70
+2011,global,9.52
+2012,global,9.51
+2013,global,9.61
+2014,global,9.57
+2015,global,9.83

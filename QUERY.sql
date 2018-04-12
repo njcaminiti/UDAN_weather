@@ -1,6 +1,6 @@
-SELECT *
+SELECT year, city, avg_temp
 FROM city_data
-WHERE city IN ('Baltimore', 'San Francisco')
+WHERE city = 'Baltimore'
 UNION ALL
-SELECT year, 'global' AS city, 'global' AS country, avg_temp 
+SELECT year, 'global' AS city, avg_temp 
 FROM global_data
