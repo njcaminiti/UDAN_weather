@@ -10,4 +10,4 @@ def run_avg(data, width):
         output.append(segment)
         i += 1
     return output
- 
+

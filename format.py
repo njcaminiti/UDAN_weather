@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 # Reading the data from the CSV file that our SQL query generated into a Pandas DataFrame
