@@ -10,9 +10,9 @@ import matplotlib.pyplot as plt
 
 
 # Reading the data from the CSV file that our SQL query generated into a Pandas DataFrame
-raw = pd.read_csv('RESULTS.csv')
+raw = pd.read_csv('data_subscripts/RESULTS.csv')
 
-# Reshaping the Dataframe and trimming the start and end years where data is missing 
+# Reshaping the Dataframe and trimming the start and end years where data is missing
 tidy = pd.pivot_table(raw, values = 'avg_temp', index= 'year', columns= 'city').loc[1750:2013]
 
 #check for and locate missing values
@@ -24,8 +24,8 @@ tidy.loc[1780]['Baltimore'] = tidy.loc[1778]['Baltimore']
 
 
 
-# Returns running average of a series over a user defined width (as ndarray) 
-# Backfills with first calculation so output data matches length of input data. 
+# Returns running average of a series over a user defined width (as ndarray)
+# Backfills with first calculation so output data matches length of input data.
 def run_avg(data, width, bfill = True):
     output = []
     if width > len(data)/2:
@@ -56,7 +56,7 @@ tidy.plot(subplots=True, lw=2, title='Smoothed vs Unsmoothed trendlines')
 tidy[['Balt_avg','global_avg']].plot(lw=4, title='Temperature 1750-2013 (10-year moving avg)').set_ylabel('Temperature')
 
 #lines of best fit (slope, y-intercept)
-mbalt, bbalt = np.polyfit(tidy.index, tidy['Balt_avg'], 1) 
+mbalt, bbalt = np.polyfit(tidy.index, tidy['Balt_avg'], 1)
 mglob, bglob = np.polyfit(tidy.index, tidy['global_avg'], 1)
 
 plt.plot(tidy.index, tidy['global_avg'], tidy.index, mglob*tidy.index+bglob, label='global', lw=2)
