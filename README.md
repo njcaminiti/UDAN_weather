@@ -1,6 +1,6 @@
 # UDAN_weather
 
-Fundamentals of Data Analysis, a brief look at global temperature over the past 250 years. 1 <br/>
+Fundamentals of Data Analysis, a brief look at global temperature over the past 250 years. <br/>
 
 ### Main
 **README.md - This table of contents.**<br/>
