@@ -1,6 +1,8 @@
 # UDAN_weather
-
 Fundamentals of Data Analysis, a brief look at global temperature over the past 250 years. <br/>
+This high-level look at global temperature data over the past 250 years is meant to provide a brief behind-the-scenes look at the preparatory work involved in the data analysis process. 
+
+The project uses SQL and Python, and is also meant to showcase the format and structure of Jupyter (or iPython) Notebooks; interactive documents which allow for the execution of python scripts within the cells of the document itself. (NOTE: The online snapshot of the notebook hosted on GitHub is non-interactive) 
 
 ### Main
 **README.md - This table of contents.**<br/>
